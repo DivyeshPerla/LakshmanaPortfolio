@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lakshmana-portfolio/static/css/main.e6b89cb9.css",
+    "main.js": "/lakshmana-portfolio/static/js/main.37dd97ce.js",
+    "static/js/453.5c024ac1.chunk.js": "/lakshmana-portfolio/static/js/453.5c024ac1.chunk.js",
+    "index.html": "/lakshmana-portfolio/index.html",
+    "main.e6b89cb9.css.map": "/lakshmana-portfolio/static/css/main.e6b89cb9.css.map",
+    "main.37dd97ce.js.map": "/lakshmana-portfolio/static/js/main.37dd97ce.js.map",
+    "453.5c024ac1.chunk.js.map": "/lakshmana-portfolio/static/js/453.5c024ac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b89cb9.css",
+    "static/js/main.37dd97ce.js"
+  ]
+}
