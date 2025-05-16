@@ -1,0 +1,21 @@
+@import url('https://api.fontshare.com/v2/css?f[]=clash-display@600&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@500&display=swap');
+
+/* Fallback font faces */
+@font-face {
+  font-family: 'Clash Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Clash Display'),
+       url('https://api.fontshare.com/v2/css?f[]=clash-display@600') format('woff2');
+}
+
+@font-face {
+  font-family: 'Cabinet Grotesk';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Cabinet Grotesk'),
+       url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@500') format('woff2');
+} 
